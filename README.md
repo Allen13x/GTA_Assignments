@@ -18,7 +18,6 @@ The implementation relies on the following Python packages:
 
 - `numpy`
 - `pandas`
-- `networkx`
 - `matplotlib`
 
 You can install them with:
