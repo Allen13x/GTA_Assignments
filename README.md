@@ -30,7 +30,7 @@ for small graphs, using **random walks** and a **Skip-gram model with Negative S
 - Extract center-context pairs from walks.  
 - Train Skip-gram with Negative Sampling using PyTorch.  
 - Obtain low-dimensional embeddings for nodes.
-- Visualize nodes embeddings
+- Visualize node embeddings
 
 ---
 
